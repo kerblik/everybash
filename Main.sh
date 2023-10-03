@@ -6,6 +6,7 @@ chmod +x php_pokracovani.sh
 chmod +x phpmyadmin.sh
 chmod +x phpmyadmin_ap.sh
 chmod +x samba.sh
+chmod +x basic_setup_ap.sh
 
 
 echo "Ahoj! Co by jsi chtěl nainstalovat?"
