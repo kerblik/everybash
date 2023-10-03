@@ -31,5 +31,6 @@ case "$choice" in
     ;;
   *)
     echo "Neplatná volba"
+    ./Main.sh
     ;;
 esac
