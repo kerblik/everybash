@@ -7,7 +7,7 @@ read choice
 
 case "$choice" in
   y)
-    ./phpmyadmin.sh
+    ./basic_setup.sh
     ;;
   n)
     ./Main.sh

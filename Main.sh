@@ -17,7 +17,7 @@ read choice
 
 case "$choice" in
   1)
-    ./basic_setup.sh
+    ./basic_setup_ap.sh
     ;;
   2)
     ./apache_wp.sh
