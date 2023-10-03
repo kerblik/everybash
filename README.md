@@ -1,4 +1,4 @@
 # everybash
 ```sh
-chmod +x ./Main
+chmod +x ./Main.sh
 ```
